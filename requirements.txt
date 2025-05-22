@@ -1,4 +1,8 @@
 flask
 flask-cors
 joblib
+<<<<<<< HEAD
 scikit-learn
+=======
+scikit-learn
+>>>>>>> a28f3027baa08abe342e7925213f1a2dec9fc97f
