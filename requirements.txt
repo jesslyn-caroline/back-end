@@ -1,8 +1,4 @@
-flask
-flask-cors
-joblib
-<<<<<<< HEAD
-scikit-learn
-=======
-scikit-learn
->>>>>>> a28f3027baa08abe342e7925213f1a2dec9fc97f
+flask==2.3.2
+flask-cors==3.0.10
+joblib==1.2.0
+scikit-learn==1.2.2
